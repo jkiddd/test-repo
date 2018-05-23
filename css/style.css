@@ -1,0 +1,28 @@
+h1 {
+	color: green;
+	text-align: center;
+	font-size: 40px;
+	font-family: cursive;
+
+}
+.color-h2 {
+	color: red;
+}
+.color-h2-green{
+	color: green;
+	font-size: 34px;
+	font-family: arial;
+	text-decoration:underline; 
+	text-transform: uppercase; 
+	letter-spacing: 6px;
+	word-spacing: 5px;
+	line-height: 50px;
+	margin-bottom: 40px;
+	margin-top: 40px;
+	border: 45px;
+	padding: 56px;
+
+}
+h2.color-h2:hover { color: black; 
+	transition: 3s;
+}
